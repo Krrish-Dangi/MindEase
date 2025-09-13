@@ -1,6 +1,3 @@
----
-## 🚀 Getting Started
-
 ### 1. Prerequisites
 
 Make sure you have the following installed:
