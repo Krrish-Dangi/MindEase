@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Chat",
+  "description": "A modern chat application combining features from Discord, Reddit, and WhatsApp for seamless global and personal communication. It provides topic-based channels and direct messaging in a sleek, integrable interface.",
+  "requestFramePermissions": []
+}
