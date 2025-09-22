@@ -1,4 +1,4 @@
-# MindHaven — MindEase (SIH 2025, PSID: 25092)
+# MindEase (SIH 2025, PSID: 25092)
 
 MindHaven — built around the MindEase application — is a mental-wellness platform designed to help users monitor, understand, and improve their psychological health through simple, human-centred digital tools. The project targets early identification and ongoing self-care: it gives users easy ways to record moods and symptoms, take validated screening questionnaires, access guided self-help content, and connect with professional support when needed. The core idea is to make mental health check-ins a regular, low-friction habit and to provide data-driven insights that empower both users and care providers.
 
