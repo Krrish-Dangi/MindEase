@@ -2,7 +2,7 @@ from datetime import datetime, timezone
 from pymongo import MongoClient
 import os
 
-MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://connacc:connacc@cluster0.hrncv30.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_URI = os.getenv("MONGO_URI", "<Mongo_Database_string>")
 client = MongoClient(MONGO_URI)
 db = client["mental_health_support"]
 chats_collection = db["chats"]
