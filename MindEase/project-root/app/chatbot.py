@@ -5,7 +5,7 @@ import os
 from groq import Groq
 from app.db import get_user_messages
 
-client = Groq(api_key = "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")
+client = Groq(api_key = "<API-KEY>")
 
 def get_gemma_response(user_message : str, user_id: str, mood: str) -> str:
       # Fetch last 3 messages
