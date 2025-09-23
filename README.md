@@ -51,13 +51,22 @@ cd MindHaven/MindEase
 cd backend
 ```
 
-2. Install dependencies (already in the folder, not necessary):
+2. Install dependencies:
 
 ```bash
 npm install
 ```
 
-3. Start the backend server:
+3. Connect backend with mongoDB database:
+
+```bash
+create a .env file in the backend folder and copy paste this:
+
+MONGO_URI=<Database string>
+PORT=5000
+```
+
+4. Start the backend server:
 
 ```bash
 npm start
@@ -73,7 +82,7 @@ npm start
 cd ../frontend
 ```
 
-2. Install dependencies (already in the folder, not necessary):
+2. Install dependencies:
 
 ```bash
 npm install
@@ -95,7 +104,7 @@ npm run dev
 cd ../project-root
 ```
 
-2. Install dependencies (already in the folder, not necessary):
+2. Install dependencies:
 
 ```bash
 pip install -r Requirements.txt
