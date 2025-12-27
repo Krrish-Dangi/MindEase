@@ -118,7 +118,7 @@ python -m uvicorn main:app --reload --port 8000
 
 ---
 
-# NOTE: Run these three terminals separately.
+# NOTE: Run these in three separate terminals.
 
 
 
